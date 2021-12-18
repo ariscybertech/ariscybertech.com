@@ -1,6 +1,6 @@
 this is demo website
 ///commit
-///ommit
+///ommit/
 /commitcommit
 
 commit//commit/
